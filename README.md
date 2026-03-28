@@ -1,4 +1,4 @@
-![Workshop Banner](NAIRR/NAIRR.png)
+
 | # | Workshop | GitHub Repository | Jupyter Notebook | Download Slides Materials |
 |---|----------|------------------|------------------|---------------------------|
 | 1 | Introduction to NAIRR: Tools and Project Walkthrough |  |  |  |
