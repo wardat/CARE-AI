@@ -9,6 +9,6 @@
 | 7 | AI-Enabled Sensing and Controlling |  |  |  |
 | 8 | Case Study: Edge AI and Cybersecurity in Action |  |  |  |
 | 9 | Case Study: Cybersecurity in Autonomous Driving |  |  |  |
-|10 | Case Study: Real-time Control and Decision-Making with Edge AI |  |  |  |
-|11 | Combined Case Study: Cybersecurity, Edge AI and Autonomous Driving |  |  |  |
-|12 | Key Takeaways and Future Directions |  |  |  |
+| 10 | Case Study: Real-time Control and Decision-Making with Edge AI |  |  |  |
+| 11 | Combined Case Study: Cybersecurity, Edge AI and Autonomous Driving |  |  |  |
+| 12 | Key Takeaways and Future Directions |  |  |  |
