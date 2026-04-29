@@ -1,4 +1,4 @@
-| # | Date | Workshop | GitHub Repository | Jupyter Notebook | Download Slides Materials |
+| # | Date | Workshop | GitHub Repository | Youtube | Download Slides Materials |
 |---|------|----------|------------------|------------------|---------------------------|
 | 1 | 3/21/26 | Introduction to NAIRR: Tools and Project Walkthrough | [NAIRR_Intro](https://github.com/MattyTheBoi/NAIRR_Intro) | TBD | TBD |
 | 2 | 4/4/26 | AI for Cybersecurity: Threats and Defenses | [Workshop 2.1](https://github.com/WPI-LIONS-Group/NAIRR-Workshops/tree/main/2.1) | TBD | TBD |
