@@ -1,7 +1,7 @@
 | # | Date | Workshop | GitHub Repository | YouTube | Download Slides Materials |
 |---|------|----------|------------------|---------|---------------------------|
 | 1 | 3/21/26 | Introduction to NAIRR: Tools and Project Walkthrough | [NAIRR_Intro](https://github.com/MattyTheBoi/NAIRR_Intro) | [Watch](https://youtu.be/r02WUS-odZQ) | [Slide](https://github.com/MattyTheBoi/NAIRR_Intro/tree/main/slides)  |
-| 2 | 4/4/26 | AI for Cybersecurity: Threats and Defenses | [Workshop 2.1](https://github.com/WPI-LIONS-Group/NAIRR-Workshops/tree/main/2.1) | [Watch](https://youtu.be/VJROrGm5KOU) | TBD |
+| 2 | 4/4/26 | AI for Cybersecurity: Threats and Defenses | [Workshop 2.1](https://github.com/WPI-LIONS-Group/NAIRR-Workshops/tree/main/2.1) | [Watch](https://youtu.be/VJROrGm5KOU) | [Slide](https://github.com/WPI-LIONS-Group/NAIRR-Workshops/blob/main/2.1/2.1%20AI%20for%20Cybersecurity_Threats%20and%20Defenses.pptx) |
 | 3 | 4/18/26 | Security of AI Development Using NAIRR | [Workshop 2.2](https://github.com/WPI-LIONS-Group/NAIRR-Workshops/tree/main/2.2) | [Watch](https://youtu.be/UP29w8CmWSw) | [Slide](https://github.com/WPI-LIONS-Group/NAIRR-Workshops/blob/main/2.2/2.2%20NAIRR%20Workshop.pptx) |
 | 4 | 5/2/26 | Efficient Inference for Edge AI | TBD | TBD | TBD |
 | 5 | 5/16/26 | Domain-Specific Optimization in Edge AI | TBD | TBD | TBD |
